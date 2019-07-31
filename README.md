@@ -4,6 +4,8 @@ I am currently reading [Modern Compiler Implementation in Java](https://www.amaz
 
 This repo contains my notes and solutions to exercises.
 
+**Note** I will ocassionally write 🏫CSCXXX (where CSCXXX is a course code) and some comments if a specific topic is something I have seen previously in class. Eg. Chapter 2.3 & 2.4
+
 ---
 
 ## Chapter 1
